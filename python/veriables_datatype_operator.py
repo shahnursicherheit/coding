@@ -46,3 +46,5 @@ b = 'am'
 c = ' nobe'
 
 print ( a+b+c, B )
+
+# condition on python
